@@ -1,0 +1,28 @@
+# Next Actions
+
+[[Inbox]]
+
+## Upcoming Actions (Next 7 Days)
+
+{{dueinnext 7, @todo}}
+{{dueinnext 7, @call}}
+{{dueinnext 7, @errand}}
+
+## Context Lists
+
+- [[ToDoActionList|@todo]]
+- [[CallActionList|@call]]
+- [[ErrandsActionList|@errand]]
+- [[SomedayMaybeList|@someday]]
+- [[WaitingForList|@waiting]]
+
+## Recurring Meetings
+
+- RecurringMeetingAgenda
+- PageForAnotherRecurringMeeting
+
+## Agendas
+
+{{lua ChildrenEx.lua,Agendas}}
+
+{{off footer}}
