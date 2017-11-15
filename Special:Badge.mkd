@@ -1,0 +1,5 @@
+{{off header}}
+{{dueinnext 7, @todo}}
+{{dueinnext 7, @call}}
+{{dueinnext 7, @errand}}
+{{off footer}}
