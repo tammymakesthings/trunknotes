@@ -1,25 +1,32 @@
 # Next Actions
 
-[[Inbox]]
+[[Inbox]] | {{lua Link.lua,ConsolidatedActionList}}
 
 ## Upcoming Actions (Next 7 Days)
 
+**Tasks**
 {{dueinnext 7, @todo}}
+
+**Calls/Emails**
 {{dueinnext 7, @call}}
+
+**Errands**
 {{dueinnext 7, @errand}}
+
+**Waiting**
+{{dueinnext 7, @waiting}}
 
 ## Context Lists
 
-- [[ToDoActionList|@todo]]
-- [[CallActionList|@call]]
-- [[ErrandsActionList|@errand]]
-- [[SomedayMaybeList|@someday]]
-- [[WaitingForList|@waiting]]
+- {{lua Link.lua,ToDo,@todo}}
+- {{lua Link.lua,Call,@call}}
+- {{lua Link.lua,Errands,@errands}}
+- {{lua Link.lua,SomedayMaybe,@someday}}
+- {{lua Link.lua,WaitingFor,@waiting}}
 
 ## Recurring Meetings
-
-- RecurringMeetingAgenda
-- PageForAnotherRecurringMeeting
+- RecurringMeeting
+- AnotherRecurringMeeting
 
 ## Agendas
 
