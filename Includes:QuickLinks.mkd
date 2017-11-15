@@ -1,0 +1,1 @@
+[[Inbox]] [[NextActions|Next Actions]] | **Quick Links:** {{lua CatLink.lua,YourCategory}} | {{lua CatLink.lua,AnotherCategory}} 
