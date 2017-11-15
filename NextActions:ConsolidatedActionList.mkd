@@ -1,0 +1,23 @@
+# Consolidated Actions List
+
+This page is intended for use to quickly review all open actions.
+
+### Tasks
+{{action @todo}}
+
+### Calls
+{{action @call}} 
+
+### Errands
+{{action @errand}}
+
+### Someday/Maybe
+{{action @someday}}
+
+### Waiting For
+{{action @waiting}}
+
+{{off footer}}
+
+---- 
+*This page is auto-generated; do not add tasks here*
