@@ -1,3 +1,4 @@
 {{lua DayNightStyle.lua,Solarized,7,20}}
 {{include Includes:QuickLinks}}
+{{lua FixupPageTags.lua}}
 ----
