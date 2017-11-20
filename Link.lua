@@ -1,10 +1,6 @@
 -- Automagically create a link with a title, so you dont have to type
 -- [[PageCategory:PageName|Page Name]] over and over.
 
-Updated Fri Nov 17, 2017 - 16:04 
--- Automagically create a link with a title, so you dont have to type
--- [[PageCategory:PageName|Page Name]] over and over.
-
 function string:split( inSplitPattern, outResults )
   if not outResults then
     outResults = { }
