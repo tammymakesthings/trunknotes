@@ -72,5 +72,3 @@ end
 if modify_count > 0 then
 	wiki.save(page)
 end
-
-return modify_count
